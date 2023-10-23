@@ -94,7 +94,7 @@ but have run across some challenges along the way:
    burden. Common challenges include installing mutually compatible graphics drivers, CUDA
    libraries, and deep learning frameworks. An entirely separate package manager such as
    [conda](https://docs.conda.io/en/latest/) or 
-   [micromamba](https://mamba.readthedocs.io/en/latest/) is often used for dependecy
+   [micromamba](https://mamba.readthedocs.io/en/latest/) is often used for dependency
    management. If we begin with the 'right' package manager (e.g., `Nix`), all of this added
    complexity becomes unnecessary.
 4. Popular flight control system (FCS) software (e.g., ArduPilot, PX4, BetaFlight) projects
